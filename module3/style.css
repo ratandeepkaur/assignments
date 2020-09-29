@@ -2,6 +2,7 @@
 .container-fluid{
 	margin: 0;
 	padding: 0;
+	color: blue;
 }
 
 .navbar{
@@ -88,7 +89,7 @@ li{
 
 .item-name{
 	text-align: center;
-	font-size: 20px;
+	font-size: 50px;
 	font-weight: bold;
 }
 
